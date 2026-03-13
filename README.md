@@ -17,6 +17,8 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 
+
+
 ## Experiment:
 
 
@@ -62,9 +64,15 @@ print("--------------------------------------------------------------")
 
 <img width="761" height="338" alt="560281222-c39877a1-f917-4c4c-b77f-69c4e268c577" src="https://github.com/user-attachments/assets/b22f4b75-ff87-479d-9477-d8d85def619a" />
 
+
+
+
  
-##  Result : 
+# Result : 
 
 
-### thus the program Multiple server with infinite capacity - (M/M/C):(oo/FIFO) was verified using python program 
+
+
+
+### Thus the program Multiple server with infinite capacity - (M/M/C):(oo/FIFO) was verified using python program 
 
